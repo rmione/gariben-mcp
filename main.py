@@ -1,4 +1,3 @@
-# server.py
 import os
 from mcp.server.fastmcp import FastMCP
 import sqlite3
