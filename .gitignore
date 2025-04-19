@@ -1,0 +1,6 @@
+*.sqlite*
+
+.venv/
+venv/
+ENV/
+env/
